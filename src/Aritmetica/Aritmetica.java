@@ -4,8 +4,10 @@ import java.util.Scanner;
 
 public class Aritmetica {
 
+	private static Scanner scan;
+
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		int i;
 		int j;
 		int suma;
@@ -15,7 +17,7 @@ public class Aritmetica {
 		int modulo;
 		
 		System.out.println("Ingrese el primer número:");
-		Scanner scan = new Scanner(System.in);
+		scan = new Scanner(System.in);
 		i = scan.nextInt();
 		System.out.println("Ingrese el segundo número:");
 		j = scan.nextInt();
