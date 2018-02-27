@@ -1,4 +1,4 @@
-package Objetos;
+package seccion3;
 
 import java.util.Scanner;
 

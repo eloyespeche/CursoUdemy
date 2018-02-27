@@ -1,4 +1,4 @@
-package Aritmetica;
+package seccion2;
 
 import java.util.Scanner;
 
