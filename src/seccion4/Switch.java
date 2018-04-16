@@ -1,4 +1,4 @@
-package seccion4.switsh;
+package seccion4;
 
 import javax.swing.JOptionPane;
 
